@@ -1,0 +1,14 @@
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\bin\Debug\TrackDataView.exe.config
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\bin\Debug\TrackDataView.exe
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\bin\Debug\TrackDataView.pdb
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\TrackDataView.csprojAssemblyReference.cache
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\MainWindow.g.cs
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\App.g.cs
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\TrackDataView_MarkupCompile.cache
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\TrackDataView_MarkupCompile.lref
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\MainWindow.baml
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\TrackDataView.g.resources
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\TrackDataView.Properties.Resources.resources
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\TrackDataView.csproj.GenerateResource.cache
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\TrackDataView.exe
+C:\Users\pc\Source\Repos\Tracker\TrackDataView\obj\Debug\TrackDataView.pdb
