@@ -44,3 +44,17 @@ C:\Users\pc\Source\Repos\Tracker\Tracker\obj\Debug\Tracker_Content.g.cs
 C:\Users\pc\Source\Repos\Tracker\Tracker\bin\Debug\TrackDataView.exe
 C:\Users\pc\Source\Repos\Tracker\Tracker\bin\Debug\TrackDataView.pdb
 C:\Users\pc\Source\Repos\Tracker\Tracker\bin\Debug\TrackDataView.exe.config
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker.csproj.AssemblyReference.cache
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\MainWindow.g.cs
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\App.g.cs
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker_Content.g.cs
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker_MarkupCompile.cache
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker_MarkupCompile.lref
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\MainWindow.baml
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker.g.resources
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker.csproj.GenerateResource.cache
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker.TrustInfo.xml
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker.exe
+C:\Users\vivek\Documents\GitHub\Tracker\Tracker\obj\Debug\Tracker.pdb
